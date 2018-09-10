@@ -1,0 +1,175 @@
+.relative-position {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    background: black;
+    margin-left: 10vw;
+    height: 8vw;
+    width: 20vw;
+}
+
+.logo-title {
+    margin: 0 auto;
+    width: 100%;
+    line-height: 8vw;
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 3vw;
+}
+
+.title-bold {
+    font-weight: 700;
+    color: rgb(230, 79, 49);
+}
+
+.navigation-options {
+    position: absolute;
+    background: white;
+    height: 2vw;
+    right: 10vw;
+    font-weight: 900;
+    padding-top: .5VW;
+    padding-bottom: .5VW;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.navigation-options a {
+    line-height: 2vw;
+    padding: 0 1vw;
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+}
+
+.navigation-options a:hover {
+    background: #bebebe;
+    cursor: pointer;
+}
+
+.nav {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index:20;
+    width: 100%;
+}
+
+.link-holder {
+    float: right;
+    margin-top: 3vw;
+    margin-right: 10vw;
+    padding: 1vw 2vw;
+}
+
+.option {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display:none;
+    top:6vw;
+    width: 15vw;
+    padding: 0 2vw;
+    position: absolute;
+    background-color: #333333;
+    padding-bottom:.9vw;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a:hover {color:#F4511E;}
+
+
+.dropdown-content a {
+    margin: 0 auto;
+    color:white;
+    font-size: 1vw;
+    text-decoration: none;
+    display: block;
+    margin-top:.9vw;
+}
+
+.dropdown a{
+    color: white;
+    font-weight: 900;
+    width: 100%;
+}
+
+
+.dropdown {
+   margin:0 auto;
+    height:10vw;
+    padding-right:2vw;
+    display:inline-block;
+}
+
+.mobile-nav {
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    left:0;
+    display: none;
+}
+
+
+
+.relative-container {
+       width: 100%;
+    height: 100%;
+    position: relative;
+}
+.mobile-close-button {
+    width: 8vw;
+    height: 8vw;
+    position: absolute;
+    top: 2vw;
+    right: 2vw;
+}
+
+
+.mobile-logo-text {
+    color: white;
+    line-height: 40vw;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: .5vw;
+    font-size: 7vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+.mobile-link {
+     color: white;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: .5vw;
+    font-size: 4vw;
+    line-height: 15vw;
+    display: block;
+    text-decoration: none;
+}
+
+.mobile-side-panel {
+    height: 100vh;
+    width: 100vw;
+    background: #F4511E;
+    position: fixed;
+    top: 0;
+    left: -120%;
+    z-index: 200;
+}

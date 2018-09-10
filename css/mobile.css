@@ -1,0 +1,284 @@
+@media only screen and (max-device-width: 736px) and (orientation: portrait) {
+     .happening {
+         padding-top: 30vw;
+     }
+     .link {
+         padding-top: 30vw;
+     }
+     .email-container {
+         padding-top: 30vw;
+     }
+     .social-media-image {
+         height: 20vw;
+         width: 20vw;
+         top: 10vw
+     }
+     .believers {
+         padding-top: 30vw;
+     }
+     .large {
+         margin-top: 5vw;
+         margin-left: 15vw;
+         height: 50vw;
+         width: 50vw;
+         display: block;
+     }
+     .page-tag {
+         position: fixed;
+         width: 100%;
+         padding-top: 7vw;
+         padding-bottom: 7vw;
+         z-index: 2;
+     }
+     .tag-title {
+         font-size: 7vw;
+     }
+     .about .title {
+         font-size: 8vw;
+     }
+     .happening .title {
+         font-size: 8vw;
+     }
+     .happening .funtext {
+         font-size: 5vw;
+     }
+     .about .funtext {
+         font-size: 5vw;
+         line-height: normal;
+     }
+     .quote {
+         font-size: 8vw;
+         line-height: normal;
+     }
+     .orange-title {
+         font-size: 5vw;
+         font-weight: 600;
+     }
+     .center-title {
+         font-size: 8vw;
+     }
+     .footer-img {
+         display: none;
+     }
+     .footer {
+         padding: 0;
+     }
+     .footer-media {
+         text-align: center;
+         position: relative;
+         width: 100%;
+         display: inline-block !important;
+         height: 70vh;
+     }
+     .social-media-container {
+         height: 30vw !important;
+         width: 30vw !important;
+         margin: 3vh auto;
+     }
+     .footer-social-media-img {
+         width: 20vw;
+         height: 20vw;
+     }
+     .list-item {
+         font-size: 5vw;
+     }
+     .believers .title {
+         font-size: 8vw;
+     }
+     .believers .funtext {
+         font-size: 5vw;
+         line-height: normal;
+     }
+     .email-container .title {
+         font-size: 8vw;
+     }
+     .email-container .funtext {
+         font-size: 5vw;
+         line-height: normal;
+     }
+     .input-label {
+         font-size: 5vw;
+     }
+     .class-input {
+         height: 10vw;
+     }
+     .radio-label {
+         font-size: 5vw;
+         line-height: normal;
+     }
+     .sub-button {
+         margin: 0 auto;
+         margin-top: 10vw;
+         margin-left: 4vw;
+         height: 15vw;
+         width: 30vw;
+         font-size: 4vw;
+     }
+     .link .title {
+         font-size: 8vw;
+     }
+     .link .funtext {
+         font-size: 5vw;
+     }
+     .hashtag {
+         text-align: center;
+     }
+     .yeseptx-image {
+         float: none;
+         width: 100%;
+         height: 50vw;
+     }
+     .hashtag .title {
+         padding: 0;
+         margin: 0;
+         margin-top: 10vw;
+         text-align: center;
+         width: 100%;
+     }
+     .large .title {
+         font-size: 5vw;
+         color: white;
+         top: 20vw;
+     }
+     .hashtag .funtext {
+         margin-top: 5vw;
+         padding: 0;
+     }
+     .resource-link {
+         padding: 0;
+         font-size: 5vw;
+     }
+     .yeseptx-link {
+         text-align: center;
+     }
+     .yeseptx-link .yeseptx-image {
+         width: 100%;
+         height: 50vw;
+     }
+     .yeseptx-link .title {
+         margin-top: 10vw;
+     }
+     .yeseptx-link .funtext {
+         padding: 0;
+         margin-top: 5vw;
+     }
+     .flex-info-container {
+         padding: 0;
+         display: block;
+         text-align: center;
+         padding-bottom: 15vw;
+     }
+     .info {
+         width: 100%;
+         height: 35vw;
+     }
+     .info .title {
+         padding: 0;
+         margin: 0;
+         font-size: 6vw;
+         margin-top: 10vw;
+         text-align: center;
+         width: 100%;
+     }
+     .info .funtext {
+         font-size: 5vw;
+     }
+     .flex-container {
+         display: inline;
+     }
+     .social-background,
+     .logo-background,
+     .sign-up-background {
+         width: 100% !important;
+         padding: 0;
+         height: 35vh;
+         padding-top: 14vh !important;
+     }
+     .title {
+         font-size: 20vw;
+     }
+     .subtitle {
+         font-size: 8vw;
+         line-height: 8.5vw;
+         width: 80vw;
+         padding: 0 10vw;
+     }
+     .create-container {
+         padding-top: 17vh;
+     }
+     .button {
+         margin-top: 2vh;
+         width: 80%;
+         height: 3vh;
+     }
+     .button-text {
+         font-size: 3vh;
+         line-height: 3vh;
+     }
+     .video-background {}
+     .video-text {
+         font-size: 14vw;
+         line-height: 12vw;
+         width: 100%;
+         text-align: center !important;
+     }
+     .sub-text {
+         padding-top: 1vh;
+         font-size: 4vw;
+     }
+     .social-background p {
+         font-size: 8vh !important;
+     }
+     .logo-background p {
+         font-size: 12vh !important;
+     }
+     .sign-up-background p {
+         font-size: 6vh !important;
+     }
+     .footer-social-img {
+         width: 8vh !important;
+         height: 8vh !important;
+     }
+     input[type=button] {
+         width: 90% !important;
+     }
+     .index-img {
+         width: auto;
+         height: 100%;
+     }
+     .header-title {
+         margin-top: 80vw !important;
+         font-size: 9vw !important;
+     }
+     .header-sub {
+         margin-top: 74vw !important;
+         font-size: 5vw !important;
+         width: 100% !important;
+         text-align: center !important;
+     }
+     .logo {
+         width: 100vw !important;
+         text-align: center;
+         margin-left: 0 !important;
+         height: 20vw !important;
+     }
+     .logo-title {
+         font-size: 7vw !important;
+         line-height: 20vw !important;
+     }
+     .mobile-nav {
+         display: block !important;
+     }
+     .mobile-side-panel {
+         display: block;
+     }
+     .about {
+         padding-top: 30vw;
+     }
+     .link-holder {
+         display: none;
+     }
+     .mobile-hidden {
+         display: none;
+     }
+ }
